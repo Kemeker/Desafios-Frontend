@@ -4,23 +4,19 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Obrigado por conferir este desafio de codificação front-end.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+Os desafios do [Frontend Mentor](https://www.frontendmentor.io) ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+## Stack utilizada
+
+**Front-end:** HTML, CSS
 
 ## The challenge
 
-Your challenge is to build out this social links profile and get it looking as close to the design as possible.
+Seu desafio é construir esse perfil de links sociais e fazer com que pareça o mais próximo possível do design.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-Your users should be able to: 
-
-- See hover and focus states for all interactive elements on the page
-
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o desafio. Então, se você tem algo que gostaria de praticar, sinta-se à vontade para tentar.
 
 ## Autor clone
 
