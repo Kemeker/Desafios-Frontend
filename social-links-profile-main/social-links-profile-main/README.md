@@ -29,3 +29,7 @@ Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o des
 ## Stack utilizada
 
 **Front-end:** HTML, CSS
+
+## Screenshots
+
+![App Screenshot](https://media.licdn.com/dms/image/D4D22AQFt7UzTeIoWIQ/feedshare-shrink_800/0/1706335508524?e=1709164800&v=beta&t=odzsROe87QX0r8aexXr8jgVGsdJfUaOPvVW42METOdc)
