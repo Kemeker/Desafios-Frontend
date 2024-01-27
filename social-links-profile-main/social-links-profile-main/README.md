@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile
 
-![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Social links profile coding challenge](https://www.linkedin.com/in/cristian-bevilaqua-6506ba217/recent-activity/all/)
 
 ## Bem-Vindo! 👋
 
