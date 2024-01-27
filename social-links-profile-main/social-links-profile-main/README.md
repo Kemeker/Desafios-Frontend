@@ -2,7 +2,7 @@
 
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Bem-Vindo! 👋
 
 Obrigado por conferir este desafio de codificação front-end.
 
